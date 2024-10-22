@@ -14,7 +14,7 @@ const Footer = () => {
                     <a href="https://www.linkedin.com/in/gurudarshan-l-772a1b25b/" target="_blank"><i className="fa-brands fa-linkedin text-2xl cursor-pointer" style={{ color: "#ffffff" }}></i></a>
                 </div>
                 <div className='flex mt-2 sm:mt-0 tracking-wider font-medium place-content-center'>
-                    Copyright © {new Date().toString().slice(10, 15)} GuruDarshan
+                    Copyright © {new Date().toString().slice(10, 15)} YASHAS A M
                 </div>
             </div>
         </div>
